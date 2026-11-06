@@ -1,6 +1,6 @@
 # RewardPlus - Full Stack Customer Loyalty & Rewards Platform
 
-[![Frontend Deployed on Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://frontend-kohl-mu-ud7ew6yktk.vercel.app)
+[![Frontend Deployed on Render](https://img.shields.io/badge/Frontend-Render-46E3B7?logo=render&logoColor=white)](https://rewardplus-frontend.onrender.com)
 [![Backend Deployed on Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render&logoColor=white)](https://rewardplus-backend-f8ey.onrender.com)
 [![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot)](https://spring.io/projects/spring-boot)
@@ -8,7 +8,7 @@
 
 ## 🌐 Live Application Links
 
-- **Live Web Application (Frontend)**: [https://frontend-kohl-mu-ud7ew6yktk.vercel.app](https://frontend-kohl-mu-ud7ew6yktk.vercel.app)
+- **Live Web Application (Frontend)**: [https://rewardplus-frontend.onrender.com](https://rewardplus-frontend.onrender.com)
 - **Backend API Endpoint**: `https://rewardplus-backend-f8ey.onrender.com`
 - **GitHub Repository**: [https://github.com/Chestdhari/rewardplus](https://github.com/Chestdhari/rewardplus)
 
