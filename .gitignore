@@ -1,0 +1,29 @@
+# macOS / OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Frontend (Angular / Node)
+frontend/node_modules/
+frontend/.angular/
+frontend/dist/
+frontend/tmp/
+frontend/out-tsc/
+*.log
+
+# Backend (Spring Boot / Maven)
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Sensitive / environment / configuration files
+*.env
+.env
+application-local.properties
+application-secret.properties
+*.pem
+*.key
+*.p12
+*.jks
