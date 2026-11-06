@@ -1,7 +1,7 @@
 # RewardPlus - Full Stack Customer Loyalty & Rewards Platform
 
 [![Frontend Deployed on Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://frontend-kohl-mu-ud7ew6yktk.vercel.app)
-[![Backend Deployed on Railway](https://img.shields.io/badge/Backend-Railway-purple?logo=railway)](https://rewardplus-backend-production.up.railway.app)
+[![Backend Deployed on Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render&logoColor=white)](https://rewardplus-backend-f8ey.onrender.com)
 [![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-20.x-red?logo=angular)](https://angular.dev)
@@ -9,7 +9,7 @@
 ## 🌐 Live Application Links
 
 - **Live Web Application (Frontend)**: [https://frontend-kohl-mu-ud7ew6yktk.vercel.app](https://frontend-kohl-mu-ud7ew6yktk.vercel.app)
-- **Backend API Endpoint**: `https://rewardplus-backend-production.up.railway.app`
+- **Backend API Endpoint**: `https://rewardplus-backend-f8ey.onrender.com`
 - **GitHub Repository**: [https://github.com/Chestdhari/rewardplus](https://github.com/Chestdhari/rewardplus)
 
 ---
