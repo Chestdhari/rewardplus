@@ -17,6 +17,18 @@ services:
       - key: SPRING_JPA_HIBERNATE_DDL_AUTO
         value: update
 
+  - type: web
+    name: rewardplus-frontend
+    env: static
+    rootDir: frontend
+    plan: free
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist/frontend/browser
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+
 databases:
   - name: rewardplus-db
     plan: free
